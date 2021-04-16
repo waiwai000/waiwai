@@ -8,7 +8,7 @@ package com.waiwai;
  */
 public class ww {
     public static void main(String[] args) {
-        System.out.println("ww 2222");
+        System.out.println("ww777");
     }
 
 }
